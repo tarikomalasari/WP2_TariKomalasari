@@ -7,6 +7,6 @@
     <title>Perkenalan</title>
 </head>
 <body>
-    <h1> Hai Nama Saya Tari Komalasari, saya sedang mencoba membuat repository di github :) </h2>
+    <h1> Hai Nama Saya Tari Komalasari nim 12200166, saya sedang mencoba membuat repository di github :) </h2>
 </body>
 </html>
